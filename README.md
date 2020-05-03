@@ -1,0 +1,2 @@
+# Monthly_Complaint_Analysis
+Quality Engineering tool. Pulls complaint data from a .csv file and analyzes it. The columns in the data sheet and the anticipated column names in the code need to match for the following: product family, product, individual product catalog numbers, complaint event descriptions, lot numbers (company and supplier), FDA Trending Device Code, date recorded, facility reporting the event. 
